@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 future: true
-markdown: kramdown
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -17,3 +16,4 @@ include:
   - PULL_REQUEST_TEMPLATE.md
   - linker.md
   - another.md
+  - docs/linker.md
