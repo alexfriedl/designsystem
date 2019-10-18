@@ -1,4 +1,4 @@
 Hi etc
-[link to another.md](another.md)
+[link to another.md](another.html)
 **bold**
 *italic*
