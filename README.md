@@ -1,8 +1,6 @@
 # Design system
 
-{% hint style="info" %}
 A modern setup for public design systems
-{% endhint %}
 
 ### **Advantages**
 
