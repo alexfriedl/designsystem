@@ -1,28 +1,22 @@
 # Design system
 
-A modern setup for public design systems 🥳 
+A modern setup for public design systems
 
-### **What is a design system?**
+## **Advantages**
 
-* **Scalability** through modularity
-* **Consistency** of code and design
-* **Faster** implementation of projects
+* Add product releases
+* Create pull request for collaboration
+* Specify interfaces and experiences
+* Share all types of files
 
-### **Advantages**
+## Workflow
 
-* **Add** product releases
-* **Create** pull request for collaboration
-* **Specify** interfaces and experiences
-* **Share** all types of files
+* Use Gitbook to maintain content
+* Use Github Pages to serve content
+* Use Github to versioning and share documents
 
-### Workflow
+## Installation
 
-* Use **Gitbook** to maintain content
-* Use **Github Pages** to serve content
-* Use **Github** to versioning and share documents
-
-### Installation
-
-* Create a **Gitbook Account** and integrate your Github repository
-* Change **Github Setting**s to activate Github Pages
+* Create a Gitbook Account and integrate your Github repository
+* Change Github Settings to activate Github Pages
 

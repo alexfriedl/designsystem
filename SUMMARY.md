@@ -6,4 +6,5 @@
   * [folder](docs/folder/README.md)
     * [file-in-folder](docs/folder/file-in-folder.md)
   * [another](docs/another.md)
+* [test](test.md)
 
