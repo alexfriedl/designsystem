@@ -1,8 +1,8 @@
 # Design system
 
-A modern setup for public design systems 🥳 
+A modern setup for public design systems 🎉
 
-### **What is a design system?**
+## **What is a design system?**
 
 * **Scalability** through modularity
 * **Consistency** of code and design
