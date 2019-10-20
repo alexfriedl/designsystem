@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Design system](README.md)
 * [docs](docs/README.md)
   * [linker](docs/linker.md)
   * [folder](docs/folder/README.md)
