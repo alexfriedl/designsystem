@@ -1,10 +1,10 @@
----
-description: A modern setup for public design systems
----
-
 # Design system
 
-### Advantages
+{% hint style="info" %}
+A modern setup for public design systems
+{% endhint %}
+
+### **Advantages**
 
 * Add product releases
 * Create pull request for collaboration
@@ -17,5 +17,8 @@ description: A modern setup for public design systems
 * Use Github Pages to serve content
 * Use Github to versioning and share documents
 
-### 
+### Installation
+
+* Create a Gitbook Account and integrate your Github repository
+* Change Github Settings to activate Github Pages
 
