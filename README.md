@@ -4,29 +4,31 @@ A modern setup to collaborate between researcher, designer, developer and team l
 
 ## I asked 20 people about design systems
 
+[Design System Survey](http://bit.ly/2BAJBeH)
+
 ### They work full-time as
 
-* 5 UX Designers
-* 5 UI Designers
-* 7 Developers
-* 3 Team leaders
+* **5:** UX Designers
+* **5:** UI Designers
+* **7:** Developers
+* **3:** Team leaders
 
 ### Their company size
 
-*  0%: 1 to 5
-* 31%: 5 to 50
-* 38%: 50 to 500
-* 31%: more than 500
+* **0%:** 1 to 5
+* **31%:** 5 to 50
+* **38%:** 50 to 500
+* **31%:** more than 500
 
 ### Does their company use such systems?
 
-* 100%: yes
+* **100%:** yes
 
 ### Who decided about using such systems?
 
-* 80%: Team
-* 10%: Team leader
-* 10%: Other
+* **80%:** Team
+* **10%:** Team leader
+* **10%:** Other
 
 ## Evaluation 
 
@@ -53,7 +55,7 @@ A modern setup to collaborate between researcher, designer, developer and team l
 * **Focus** on collaboration
 * **Consistency** of code and design
 * **Scalability** through modularity
-* **Code** Embedded examples (research development requirements)
+* **Code** Embedded examples *(research development requirements)*
 * **Templates** Documentation Templates
 
 ### Pains
@@ -68,16 +70,18 @@ A modern setup to collaborate between researcher, designer, developer and team l
 * **Offer** Releases / Branching Systems
 * **Offer** Editor for designers to contribute
 * **Offer** Repository Integration for 
+* *Work in progress*
 
 ### Pain relievers
 * **Reference** components
 * **Automate** build process
+* *Work in progress*
 
 ### Upcoming
 
 #### Highlevel Service
 
-* Work in progress
+* *Work in progress*
 * Check **Storybook**
 * Use **Gitbook** to maintain content
 * Use **Github Pages** to serve content
@@ -85,7 +89,7 @@ A modern setup to collaborate between researcher, designer, developer and team l
 
 #### Lowlevel Service
 
-* Work in progress
+* *Work in progress*
 
 ## Installation
 
