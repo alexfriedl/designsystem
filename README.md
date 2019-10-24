@@ -29,7 +29,8 @@ A modern setup for public design systems 🎉
 * 
 
 ## Pain relievers
-* **Automatism**
+* **Reference** components
+* **Automate** build process
 
 ## Outcome
 
