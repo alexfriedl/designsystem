@@ -99,7 +99,7 @@ The list elements are sorted by priority
 #### Lowlevel
 
 * *Work in progress*
-* **Designer:** this could be an interface powered by **Github CI / Github Pages** ![lowlevel-designsystem](designsystem.png)
+* **Designer:** this could be an interface deployed on **Github CI / Github Pages** ![lowlevel-designsystem](designsystem.png)
 
 ## Installation
 
