@@ -82,10 +82,15 @@ A modern setup to collaborate between researcher, designer, developer and team l
 #### Highlevel
 
 * *Work in progress*
-* **Designer:** check [Gitbook](https://www.gitbook.com/) to maintain content (sweet interface)
-* **Designer:** use [Github Pages](https://pages.github.com/) to serve content (markdown to html via jekyll)
-* **Developer:** check [Storybook](https://storybook.js.org/)
 * **Everybody:** use **Git or Github or Gitlab** to versioning and share
+* **Designer:** check [Gitbook](https://www.gitbook.com/) to maintain content (sweet interface)
+* **Designer:** check [Github Pages](https://pages.github.com/) to serve content (markdown to html via jekyll)
+* **Designer:**: check Git Large File Storage [git-lfs](https://git-lfs.github.com/)
+* **Developer:** check [Storybook](https://storybook.js.org/) to integrate documentation within your app repository
+* **Everybody:** check [Github CI](https://github.com/marketplace/category/continuous-integration) 
+  * to build your shit in an automated way (listen to push on master)
+  * to serve a wrapper template around your repository (design / dev)
+* **Everybody**: check visual regression testing to maintain binaries (automated visual testing)
 
 #### Lowlevel
 
@@ -93,6 +98,6 @@ A modern setup to collaborate between researcher, designer, developer and team l
 
 ## Installation
 
-* Create a **Gitbook Account** and integrate your Github repository
-* Change **Github Setting**s to activate Github Pages
+* **Designer:** create a **Gitbook Account** and integrate your Github repository
+* **Designer:** change **Github Setting**s to activate Github Pages
 * *Work in progress*
