@@ -1,6 +1,6 @@
 # Design system
 
-A modern setup for public design systems 🎉
+A modern setup to collaborate between researcher, designer, developer and team leader  🎉
 
 ## People want to
 
