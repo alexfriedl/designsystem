@@ -4,15 +4,17 @@ A modern setup for public design systems 🎉
 
 ## People want to
 
-* **deliver** product releases 
-* **collaborate** within different teams
-* **share** thoughts on decisions
+* **reduce** communication efforts
 * **reduce** maintenance efforts
+* **collaborate** within different teams
+* **deliver** consistent interfaces
+* **document** guidelines and specifications
+* **share** thoughts on decisions
 
 ## Gains
 
 * **Faster** implementation of projects 
-* **Reduced** communication effort
+* **Reduced** communication efforts
 * **Focus** on collaboration
 * **Consistency** of code and design
 * **Scalability** through modularity
