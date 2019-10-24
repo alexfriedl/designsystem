@@ -91,10 +91,12 @@ A modern setup to collaborate between researcher, designer, developer and team l
   * to build your shit in an automated way (listen to push on master)
   * to serve a wrapper template around your repository (design / dev)
 * **Everybody**: check visual regression testing to maintain binaries (automated visual testing)
+* **Everybody**: develop a solid repository structure. Mine would be an adapted atomic design pattern (styles, atoms, molecules, organisms, templates, flows)
 
 #### Lowlevel
 
 * *Work in progress*
+* **Designer:** this could be an interface powered by **Github CI / Github Pages** ![lowlevel-designsystem](designsystem.png)
 
 ## Installation
 
