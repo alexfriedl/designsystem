@@ -92,7 +92,8 @@ The list elements are sorted by priority
 * **Developer:** check [Storybook](https://storybook.js.org/) to integrate documentation within your app repository
 * **Everybody:** check [Github CI](https://github.com/marketplace/category/continuous-integration) 
   * to build your shit in an automated way (listen to push on master)
-  * to serve a wrapper template around your repository (design / dev)
+  * to serve a wrapper template around your repositories (design / dev)
+  * to map and sync both repositories through componentID, variantID and versionID
 * **Everybody**: check visual regression testing to maintain binaries (automated visual testing)
 * **Everybody**: develop a solid repository structure. Mine would be an adapted atomic design pattern (styles, atoms, molecules, organisms, templates, flows)
 
