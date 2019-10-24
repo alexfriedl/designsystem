@@ -8,7 +8,7 @@ A modern setup for public design systems 🎉
 * **reduce** maintenance efforts
 * **collaborate** within different teams
 * **deliver** consistent interfaces
-* **document** guidelines and specifications
+* **deliver** consistent guidelines and specifications
 * **share** thoughts on decisions
 
 ## Gains
