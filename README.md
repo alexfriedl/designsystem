@@ -4,7 +4,9 @@ A modern setup for public design systems 🎉
 
 ## **What is a design system?**
 
-* **Faster** implementation of projects through reduced time consuming communication efforts
+* **Faster** implementation of projects 
+* **Reduced** time consuming communication efforts
+* **Collaboration** focued
 * **Consistency** of code and design
 * **Scalability** through modularity
 
