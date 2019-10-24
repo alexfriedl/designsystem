@@ -27,8 +27,8 @@ A modern setup to collaborate between researcher, designer, developer and team l
 ### Who decided about using such systems?
 
 * **80%:** Team
-* **10%:** Team leader
-* **10%:** Other
+* **15%:** Team leader
+* **5%:** Other
 
 ## Evaluation 
 
@@ -69,7 +69,7 @@ A modern setup to collaborate between researcher, designer, developer and team l
 * **Offer** Code
 * **Offer** Releases / Branching Systems
 * **Offer** Editor for designers to contribute
-* **Offer** Repository Integration for 
+* **Offer** Repository integration for developers
 * *Work in progress*
 
 ### Pain relievers
@@ -77,17 +77,17 @@ A modern setup to collaborate between researcher, designer, developer and team l
 * **Automate** build process
 * *Work in progress*
 
-### Upcoming
+### Product/Service/Outcome
 
-#### Highlevel Service
+#### Highlevel
 
 * *Work in progress*
-* Check **Storybook**
-* Use **Gitbook** to maintain content
-* Use **Github Pages** to serve content
-* Use **Github** to versioning and share documents
+* **Designer:** check [Gitbook](https://www.gitbook.com/) to maintain content (sweet interface)
+* **Designer:** use [Github Pages](https://pages.github.com/) to serve content (markdown to html via jekyll)
+* **Developer:** check [Storybook](https://storybook.js.org/)
+* **Everybody:** use **Git or Github or Gitlab** to versioning and share
 
-#### Lowlevel Service
+#### Lowlevel
 
 * *Work in progress*
 
@@ -95,3 +95,4 @@ A modern setup to collaborate between researcher, designer, developer and team l
 
 * Create a **Gitbook Account** and integrate your Github repository
 * Change **Github Setting**s to activate Github Pages
+* *Work in progress*
