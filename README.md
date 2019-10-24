@@ -4,12 +4,18 @@ A modern setup for public design systems 🎉
 
 ## People want to
 
+* **maintain** their shit in the most simple way
 * **reduce** communication efforts
 * **reduce** maintenance efforts
 * **collaborate** within different teams
 * **deliver** consistent interfaces
 * **deliver** consistent guidelines and specifications
+* **deliver** code
+* **deliver** releases
 * **share** thoughts on decisions
+* **automate** component updates
+* **automate** guideline updates
+* **automate** specification updates
 
 ## Gains
 
@@ -18,6 +24,8 @@ A modern setup for public design systems 🎉
 * **Focus** on collaboration
 * **Consistency** of code and design
 * **Scalability** through modularity
+* **Code** Embedded examples (research development requirements)
+* **Templates** Documentation Templates
 
 ## Pains
 
@@ -26,7 +34,7 @@ A modern setup for public design systems 🎉
 * Lose **overview**
 
 ## Gain creators
-* 
+* tbd
 
 ## Pain relievers
 * **Reference** components
