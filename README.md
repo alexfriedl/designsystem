@@ -4,9 +4,9 @@ A modern setup for public design systems 🎉
 
 ## **What is a design system?**
 
-* **Scalability** through modularity
+* **Faster** implementation of projects through reduced time consuming communication efforts
 * **Consistency** of code and design
-* **Faster** implementation of projects
+* **Scalability** through modularity
 
 ## **Advantages**
 
