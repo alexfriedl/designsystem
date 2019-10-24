@@ -32,6 +32,9 @@ A modern setup to collaborate between researcher, designer, developer and team l
 
 ## Evaluation 
 
+The list elements are sorted by priority
+
+
 ### People want to
 
 * **maintain** their shit in the most simple way
