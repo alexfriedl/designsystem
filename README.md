@@ -2,26 +2,44 @@
 
 A modern setup for public design systems 🎉
 
-## **What is a design system?**
+## People want to
+
+* **deliver** product releases 
+* **collaborate** within different teams
+* **share** thoughts on decisions
+* **reduce** maintenance efforts
+
+## Gains
 
 * **Faster** implementation of projects 
 * **Reduced** communication effort
-* **Focused** on collaboration
+* **Focus** on collaboration
 * **Consistency** of code and design
 * **Scalability** through modularity
 
-## **Advantages**
+## Pains
 
-* **Add** product releases
-* **Create** pull request for collaboration
-* **Specify** interfaces and experiences
-* **Share** all types of files
+* Keeping the design system **up to date**
+* High manual **effort**
+* Lose **overview**
 
-## Workflow
+## Gain creators
+* 
+
+## Pain relievers
+* **Automatism**
+
+## Outcome
+
+### Highlevel Service
 
 * Use **Gitbook** to maintain content
 * Use **Github Pages** to serve content
 * Use **Github** to versioning and share documents
+
+### Lowlevel Service
+
+* tbd
 
 ## Installation
 
