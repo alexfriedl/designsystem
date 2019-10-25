@@ -66,6 +66,7 @@ The list elements are sorted by priority
 * Keeping the design system **up to date**
 * High manual **effort**
 * Lose **overview**
+* Keep sensible company data **private**
 
 ### Gain creators
 * **Offer** Components, Guidelines and Specifications
@@ -78,6 +79,7 @@ The list elements are sorted by priority
 ### Pain relievers
 * **Reference** components
 * **Automate** build process
+* **Corporate** solutions on own servers
 * *Work in progress*
 
 ### Product/Service/Outcome
@@ -88,7 +90,7 @@ The list elements are sorted by priority
 * **Everybody:** use **Git or Github or Gitlab** to versioning and share
 * **Designer:** check [Gitbook](https://www.gitbook.com/) to maintain content (sweet interface)
 * **Designer:** check [Github Pages](https://pages.github.com/) to serve content (markdown to html via jekyll)
-* **Designer:**: check Git Large File Storage [git-lfs](https://git-lfs.github.com/)
+* **Designer:** check Git Large File Storage [git-lfs](https://git-lfs.github.com/)
 * **Developer:** check [Storybook](https://storybook.js.org/) to integrate documentation within your app repository
 * **Everybody:** check [Github CI](https://github.com/marketplace/category/continuous-integration) 
   * to build your shit in an automated way (listen to push on master)
@@ -96,6 +98,10 @@ The list elements are sorted by priority
   * to map and sync both repositories through componentID, variantID and versionID
 * **Everybody**: check visual regression testing to maintain binaries (automated visual testing)
 * **Everybody**: develop a solid repository structure. Mine would be an adapted atomic design pattern (styles, atoms, molecules, organisms, templates, flows)
+* **Designer** / Corporate setup to secure sensible data: 
+  * use **Git or Gitlab** to versioning and share
+  * use [Markdown WYSIWYG Editor](https://github.com/nhn/tui.editor) to write .md-files with an interface
+  * use [Github CI](https://github.com/marketplace/category/continuous-integration) to serve content (listen to push on master)
 
 #### Lowlevel
 
