@@ -32,7 +32,7 @@ A modern setup to collaborate between researcher, designer, developer and team l
 
 ## Evaluation 
 
-The list elements are sorted by priority
+The list elements are not sorted by priority
 
 
 ### People want to
