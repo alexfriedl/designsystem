@@ -16,9 +16,9 @@ A modern setup to collaborate between researcher, designer, developer and team l
 ### Their company size
 
 * **0%:** 1 to 5
-* **31%:** 5 to 50
-* **38%:** 50 to 500
-* **31%:** more than 500
+* **28%:** 5 to 50
+* **36%:** 50 to 500
+* **36%:** more than 500
 
 ### Does their company use such systems?
 
@@ -67,6 +67,7 @@ The list elements are not sorted by priority
 * High manual **effort**
 * Lose **overview**
 * Keep sensible company data **private**
+* Too many **different systems**
 
 ### Gain creators
 * **Offer** Components, Guidelines and Specifications
@@ -80,6 +81,7 @@ The list elements are not sorted by priority
 * **Reference** components
 * **Automate** build process
 * **Corporate** solutions on own servers
+* **Wrapper** combining multiple repositories (design / dev)
 * *Work in progress*
 
 ### Product/Service/Outcome
