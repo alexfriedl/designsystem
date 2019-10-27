@@ -30,12 +30,30 @@ A modern setup to collaborate between researcher, designer, developer and team l
 * **15%:** Team leader
 * **5%:** Other
 
+### Facts about Designers
+
+* **80%:** call such systems Design systems
+
+### Facts about Developers
+
+* **80%:** call such systems Styleguides
+
 ## Evaluation 
 
 The list elements are not sorted by priority
 
 
 ### People want to
+
+#### Highlevel jobs
+
+* **Save** time
+* **Maintain** consistency
+* **Automate** updates
+* **Ensure** correct implementation
+* **Share** thoughts on decisions
+
+#### Lowlevel jobs
 
 * **maintain** their shit in the most simple way
 * **reduce** communication efforts
@@ -50,6 +68,8 @@ The list elements are not sorted by priority
 * **automate** guideline updates
 * **automate** specification updates
 * **automate** code updates
+* **ensure** correct implementation (design -> code)
+* **combine** design and code
 
 ### Gains
 
