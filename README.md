@@ -49,7 +49,6 @@ The list elements are not sorted by priority
 
 * **Save** time
 * **Maintain** consistency
-* **Automate** updates
 * **Ensure** correct implementation
 * **Share** thoughts on decisions
 
