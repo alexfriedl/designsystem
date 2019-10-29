@@ -1,5 +1,7 @@
 # Design system
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/adbbaba3-aa7b-45bc-a003-ee5dc4de11e8/deploy-status)](https://app.netlify.com/sites/alexfriedl-designsystem/deploys)
+
 A modern setup to collaborate between researcher, designer, developer and team leader  🎉
 
 ## I asked 20 people about design systems
