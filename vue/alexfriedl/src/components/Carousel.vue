@@ -1,9 +1,9 @@
 <template>
   <mdb-container id="CarouselComponent" class="carousel">
     <mq-layout :mq="['laptop', 'desktop']">
-      <mdb-multi-carousel :interval="8000" showControls slide>
-        <template>
-          <mdb-carousel-item v-for="(row, i) in service" :key="i">
+      <mdb-carousel :interval="8000" showControls slide multi :items="service.length">
+        <template v-for="(row, i) in service">
+          <div :key="i">
             <mdb-row class="carousel__item">
               <mdb-col md="3" v-for="(item, i) in row" :key="i">
                 <div class="carousel--teaser">
@@ -12,21 +12,21 @@
                 </div>
               </mdb-col>
             </mdb-row>
-          </mdb-carousel-item>
+          </div>
         </template>
-      </mdb-multi-carousel>
+      </mdb-carousel>
     </mq-layout>
     <mq-layout :mq="['mobile', 'tablet']">
-      <mdb-multi-carousel :interval="8000" showControls slide class="mobileCarousel">
+      <mdb-carousel :interval="8000" showControls slide class="mobileCarousel" multi>
         <template>
-          <mdb-carousel-item class="mobileCarouselItems" v-for="(item, i) in service[0]" :key="i">
+          <div class="mobileCarouselItems" v-for="(item, i) in service[0]" :key="i">
             <div class="carousel--teaser">
               <object :data="`${item.svgPath}`" class="svg" type="image/svg+xml"></object>
               <span class="title">{{item.title}}</span>
             </div>
-          </mdb-carousel-item>
+          </div>
         </template>
-      </mdb-multi-carousel>
+      </mdb-carousel>
     </mq-layout>
   </mdb-container>
 </template>

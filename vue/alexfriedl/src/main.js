@@ -1,6 +1,6 @@
 import Vue from "vue";
 import "bootstrap-css-only/css/bootstrap.min.css";
-//import 'mdbvue/build/css/mdb.css'
+//import "./../public/build/css/mdb.css";
 import App from "./App.vue";
 import store from "./store/index";
 import router from "./router";
