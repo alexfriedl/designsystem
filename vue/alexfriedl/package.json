@@ -9,6 +9,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "material-design-icons": "^3.0.1",
+    "mdbvue": "git+https://oauth2:Lz-PGwzgymrPVUUVEUGP@git.mdbootstrap.com/mdb/vue/vu-pro.git",
     "register-service-worker": "^1.6.2",
     "save": "^2.3.3",
     "vue": "^2.6.10",
