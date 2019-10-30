@@ -1,0 +1,28 @@
+{
+  "id": "messagemanager",
+  "template": "grid grid-center grid-intro",
+  "title": "Message Manager",
+  "subtitle": "Process Control System",
+  "type": "Webapp",
+  "imagePath": "img/showcase/message-manager.png",
+  "actionList": [
+    {
+      "title": "Watch",
+      "url": "some-adobe-id-324234",
+      "depressed": true,
+      "flat": false,
+      "dark": false,
+      "large": true,
+      "color": "accent"
+    },
+    {
+      "title": "What I learned",
+      "url": "messagemanager-learn",
+      "depressed": false,
+      "flat": true,
+      "dark": true,
+      "large": true,
+      "color": ""
+    }
+  ]
+}

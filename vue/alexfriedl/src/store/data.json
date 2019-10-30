@@ -1,0 +1,88 @@
+{
+    "items": [
+        {
+            "id": "comingsoon",
+            "duration": "",
+            "dates": "",
+            "template": "",
+            "templateType": "",
+            "title": "",
+            "subtitle": "",
+            "client": "",
+            "imagePath": "",
+            "route": {
+                "path": "#",
+                "items": []
+            },
+            "actionList": [
+                {
+                    "title": "",
+                    "adobe": "",
+                    "url": "#",
+                    "depressed": true,
+                    "flat": false,
+                    "dark": false,
+                    "large": true,
+                    "color": ""
+                }
+            ],
+            "process": [
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": ""
+                },
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "gallery": [
+                        {
+                            "title": "",
+                            "amount": "",
+                            "imagePaths": {
+                                "lightbox": [],
+                                "thumbnails": [
+                                    [],
+                                    [],
+                                    []
+                                ]
+                            }
+                        },
+                        {
+                            "title": "",
+                            "amount": "",
+                            "imagePaths": {
+                                "lightbox": [],
+                                "thumbnails": [
+                                    [],
+                                    []
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": ""
+                },
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "gallery": [
+                        {
+                            "title": "",
+                            "amount": "",
+                            "imagePaths": {
+                                "lightbox": [],
+                                "thumbnails": [
+                                    []
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

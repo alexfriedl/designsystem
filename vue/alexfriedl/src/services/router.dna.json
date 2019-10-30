@@ -1,0 +1,16 @@
+{
+    "items": {
+        "prev": 
+            {
+                "label": "Back",
+                "route": "#",
+                "disabled": true
+            },
+        "next": 
+            {
+                "label": "Person",
+                "route": "#/person",
+                "disabled": false
+            }
+    }
+}

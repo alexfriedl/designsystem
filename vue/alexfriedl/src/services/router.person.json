@@ -1,0 +1,16 @@
+{
+    "items": {
+        "prev": 
+            {
+                "label": "Dna",
+                "route": "#/intro",
+                "disabled": false
+            },
+        "next": 
+            {
+                "label": "Process",
+                "route": "#/process",
+                "disabled": false
+            }
+    }
+}

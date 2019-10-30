@@ -1,0 +1,51 @@
+// ----
+// Sass (vundefined)
+// Compass (vundefined)
+// dart-sass (v1.18.0)
+// ----
+
+$phone: 600px;
+$tablet: 900px;
+$laptop: 1200px;
+$desktop: 1800px;
+
+@mixin phone-only {
+  @media (max-width: #{$phone - 1}) {
+    @content;
+  }
+}
+@mixin phone-up {
+  @media (min-width: #{$phone}) {
+    @content;
+  }
+}
+@mixin tablet-only {
+  @media (min-width: #{$phone}) and (max-width: #{$tablet - 1}) {
+    @content;
+  }
+}
+@mixin tablet-up {
+  @media (min-width: #{$tablet}) {
+    @content;
+  }
+}
+@mixin laptop-only {
+  @media (min-width: #{$tablet}) and (max-width: #{$laptop - 1}) {
+    @content;
+  }
+}
+@mixin laptop-up {
+  @media (min-width: #{$laptop}) {
+    @content;
+  }
+}
+@mixin desktop-only {
+  @media (min-width: #{$laptop}) and (max-width: #{$desktop - 1}) {
+    @content;
+  }
+}
+@mixin desktop-up {
+  @media (min-width: 1800px) {
+    @content;
+  }
+}

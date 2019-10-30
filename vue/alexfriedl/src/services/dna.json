@@ -1,0 +1,40 @@
+{
+    "items": [
+        [
+            {
+                "title": "User Research",
+                "svgPath": "/svg/userresearch.svg"
+            },
+            {
+                "title": "User Experience",
+                "svgPath": "/svg/userexperience.svg"
+            },
+            {
+                "title": "Usability",
+                "svgPath": "/svg/usability.svg"
+            },
+            {
+                "title": "Interdisciplinarity",
+                "svgPath": "/svg/interdisciplinarity.svg"
+            }
+        ],
+        [
+            {
+                "title": "Frontend Dev",
+                "svgPath": "/svg/frontenddev.svg"
+            },
+            {
+                "title": "User Centricity",
+                "svgPath": "/svg/usercentricity.svg"
+            },
+            {
+                "title": "Information Architecture",
+                "svgPath": "/svg/informationarchitecture.svg"
+            },
+            {
+                "title": "Agile design approach",
+                "svgPath": "/svg/agiledesignapproach.svg"
+            }
+        ]
+    ]
+}

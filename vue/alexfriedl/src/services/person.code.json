@@ -1,0 +1,15 @@
+{
+    "items": {
+        "labels": [
+            "RestAPI",
+            "HTML5, CSS, JS",
+            "VueJS",
+            "Angular 2+",
+            "SCSS, LESS",
+            "Scrum",
+            "NodeJS",
+            "Git"
+          ],
+          "data": [55, 98, 85, 45, 90, 85, 40, 80]
+    }
+}

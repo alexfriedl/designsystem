@@ -1,0 +1,38 @@
+<!-- Written in vue.js by Alexander Friedl -->
+<!-- STACK vue.js, angular 2+, node.js, firebase, mongodb, mysql, heroku, git -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+  <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons' rel="stylesheet">
+  <title>UX Alex</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23468984-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-23468984-2');
+  </script>
+  <script src="https://static.landbot.io/landbot-widget/landbot-widget-1.0.0.js"></script>
+  <script>
+    var myLandbot = new LandbotLivechat({
+      index: 'https://landbot.io/u/H-196842-2OCBAZF0XSBDE61N/index.html',
+      proactive: true,
+    });
+  </script>
+</head>
+<body>
+  <noscript>
+    <strong>We're sorry but alexfriedl doesn't work properly without JavaScript enabled. Please enable it to
+      continue.</strong>
+  </noscript>
+  <div id="app"></div>
+</body>
+
+</html>

@@ -1,0 +1,17 @@
+.grid {
+  &.grid-half > .item:first-child {
+    max-width: 320px;
+  }
+  &.grid-half > .item:last-child {
+    align-self: flex-end;
+    max-width: 500px;
+    margin-left: 50px;
+    margin-right: 100px;
+  }
+  &.grid-intro {
+    padding: 60px;
+  }
+  &.grid-center {
+    text-align: center;
+  }
+}

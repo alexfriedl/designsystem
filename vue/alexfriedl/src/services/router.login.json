@@ -1,0 +1,16 @@
+{
+    "items": {
+        "prev": 
+            {
+                "label": "Prozess",
+                "route": "#/process",
+                "disabled": false
+            },
+        "next": 
+            {
+                "label": "Next",
+                "route": "#",
+                "disabled": true
+            }
+    }
+}
