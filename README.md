@@ -122,7 +122,7 @@ The list elements are not sorted by priority
   * to serve a wrapper template around your repositories (design / dev)
   * to map and sync both repositories through componentID, variantID and versionID
 * **Everybody**: check visual regression testing to maintain binaries (automated visual testing)
-* **Everybody**: develop a solid repository structure. Mine would be an adapted atomic design pattern (styles, atoms, molecules, organisms, templates, flows)
+* **Everybody**: develop a solid repository structure. Mine would be an adapted atomic design pattern (styles, atoms, molecules, organisms, templates, flows). Track it, collect and evaluate data, iterate and improve.
 * **Designer** / Corporate setup to secure sensible data: 
   * use **Git or Gitlab** to versioning and share
   * use [Markdown WYSIWYG Editor](https://github.com/nhn/tui.editor) to write .md-files with an interface
