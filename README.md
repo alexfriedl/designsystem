@@ -127,6 +127,7 @@ The list elements are not sorted by priority
   * use **Git or Gitlab** to versioning and share
   * use [Markdown WYSIWYG Editor](https://github.com/nhn/tui.editor) to write .md-files with an interface
   * use [Github CI](https://github.com/marketplace/category/continuous-integration) to serve content (listen to push on master)
+  **Everybody** check [Prismic.io](https://prismic.io/) to maintain content
 
 #### Lowlevel
 
