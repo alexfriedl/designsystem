@@ -130,7 +130,7 @@ The list elements are not sorted by priority
 #### Lowlevel
 
 * *Work in progress*
-* **Designer:** this could be an interface deployed via **Github CI / Github Pages** ![lowlevel-designsystem](designsystem.png)
+* **Designer:** this could be an interface deployed via **Github CI / Github Pages**, like the [interactive prototype](https://zero-design.itdone.de/) ![Interactive prototype on zero-design.itdone.de](designsystem.png)
 
 ## Installation
 
