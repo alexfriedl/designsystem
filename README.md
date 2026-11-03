@@ -96,6 +96,8 @@ The list elements are not sorted by priority
 * **Offer** Releases / Branching Systems
 * **Offer** Editor for designers to contribute
 * **Offer** Repository integration for developers
+* **Offer** AI agents and skills as a way for designers to contribute: they describe a change, the agent turns it into tokens, components, specs and code as a pull request
+* **Offer** Skills that carry the design rules, so every agent works with the same guidelines
 * *Work in progress*
 
 ### Pain relievers
@@ -103,6 +105,9 @@ The list elements are not sorted by priority
 * **Automate** build process
 * **Corporate** solutions on own servers
 * **Wrapper** combining multiple repositories (design / dev)
+* **AI agents** keep design, tokens, docs and code in sync, which takes over the manual update work
+* **AI agents** review interfaces against the guidelines before release, which ensures correct implementation
+* **Local agents** on own infrastructure keep sensible company data private
 * *Work in progress*
 
 ### Product/Service/Outcome
@@ -119,6 +124,8 @@ The list elements are not sorted by priority
   * to build your work in an automated way (listen to push on master)
   * to serve a wrapper template around your repositories (design / dev)
   * to map and sync both repositories through componentID, variantID and versionID
+* **Designer:** use AI agents and skills (e.g. [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview)) to contribute to the design system directly: build, review and release changes without waiting for a developer
+* **Everybody:** write your design rules as skills, so agents apply them the same way in every project
 * **Everybody**: check visual regression testing to maintain binaries (automated visual testing)
 * **Everybody**: develop a solid repository structure. Mine would be an adapted atomic design pattern (styles, atoms, molecules, organisms, templates, flows). Track it, collect and evaluate data, iterate and improve.
 * **Designer** / Corporate setup to secure sensible data: 
@@ -130,6 +137,7 @@ The list elements are not sorted by priority
 #### Lowlevel
 
 * *Work in progress*
+* **Designer:** contribute without writing code. Describe a change, an agent updates the Figma tokens, the components and the docs in a pull request, a second agent reviews it against the rules, the team approves the release
 * **Designer:** this could be an interface deployed via **Github CI / Github Pages**, like the [interactive prototype](https://zero-design.itdone.de/) ![Interactive prototype on zero-design.itdone.de](designsystem.png)
 
 ## Installation
