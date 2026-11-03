@@ -150,6 +150,8 @@ The list elements are not sorted by priority
 * **Team leader:** approves releases and sees what every **app** uses
 * **AI agents and skills:** pass each change down the chain and review it against the rules at every station
 
+How designers contribute directly, without specs and handoffs: [Die Kette for designers](https://kette.itdone.de/en/designer)
+
 ![Die Kette: seven stations from prototype to app](kette.png)
 
 ## Installation
