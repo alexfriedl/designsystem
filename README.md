@@ -140,6 +140,18 @@ The list elements are not sorted by priority
 * **Designer:** contribute without writing code. Describe a change, an agent updates the Figma tokens, the components and the docs in a pull request, a second agent reviews it against the rules, the team approves the release
 * **Designer:** this could be an interface deployed via **Github CI / Github Pages**, like the [interactive prototype](https://zero-design.itdone.de/) ![Interactive prototype on zero-design.itdone.de](designsystem.png)
 
+### Example: Die Kette
+
+[Die Kette](https://kette.itdone.de/en) is a chained design system: seven stations from prototype to app, every change flows in one direction and is checked at every station. Each station is a place where someone can contribute, and AI agents carry the change to the next one.
+
+* **Researcher / UX Designer:** shape flows, states and rules in the **prototype**
+* **UI Designer:** change **tokens** and **Figma** components, agents sync them into code
+* **Developer:** build the **library**, **domain components** and **page templates**
+* **Team leader:** approves releases and sees what every **app** uses
+* **AI agents and skills:** pass each change down the chain and review it against the rules at every station
+
+![Die Kette: seven stations from prototype to app](kette.png)
+
 ## Installation
 
 * **Designer:** create a **Gitbook Account** and integrate your Github repository
